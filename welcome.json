@@ -1,0 +1,94 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/aBDZE1Q.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+                    "title1": "Welcome to Twisted Whiskers Ascended by Twisted Kittens' Gaming!",
+                    "text1": "<RichColor Color=\"1,0,0,1\">*****ATTENTION*****</>Please see updated shop information in the Shop Info Tab!\n\n<TextStyle.Orange>Before you embark on your Twisted adventure, we highly recommend you explore the tabs above to ensure you have a positive gameplay experience.  You can find things out like discord membership information, rules, rates and mods, and upcoming events! Please review each log in before you begin to ensure you are up to date on the latest news, updates, and events.  Rates will change from time to time and many adjustments and rules are based on community polling results.  Therefore, it is advisable to join the discord community to ensure your ideas, opinion, and voice are heard! Our goal is to provide a positive gameplay experience for all players.</> \n\nYou can return to this screen at any time to check for updated information or reference at anytime on PC by pressing F1 or on PS5 by holding square to pull up the radial menu, move the left joystick to the icon that resembles a wolf and press R2, then while continuing to hold square move the left joystick up to the wolf icon again, then press R2 and you will return to this screen.\n\n<TextStyle.Green>Oh! And one more thing! There are starter kits available free of charge through the webshop at www.twistedkittensgaming.com  Please view the Shop tab up above to learn about shop services. Have fun surviving!</>",
+                    "imageurl": "https://imgur.com/aBDZE1Q.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "Rules, Rates, Mods",
+                    "title1": "Twisted Whiskers Basic Rules",
+                    "title2": "Current Rates",
+                    "title3": "Active Mods",
+                    "text1": "These are the current rules as agreed upon. Any suggestions are welcome and voted on!\n\nRULES\n\nTWO BASES PER TRIBE PER MAP\n\nNO OFFLINE BREEDING\n\nYOU MAY BUILD AS YOU WISH, AS LONG AS YOUR BASE IS NOT IN EXCESS, AND DOES NOT CAUSE EXCESSIVE LAG! IF A LARGE BUILD IS REQUIRED, PLEASE REQUEST AN INSPECTION BY AN ADMIN BY OPENING THE RADIAL MENU, GOING TO THE G LOGO THEN SELECTING REPORTS!\n\nNO SPAMMING OF ANY STRUCTURES OF ANY TYPE. DISMANTLE TRAPS ONCE DONE TAMING.\n\nNO EGG STEALING FROM OTHERS\n\nNO HARASSMENT OF ANY KIND\n\nBE CAREFUL WHO YOU TRUST, WE ARE NOT MEDIATORS OF YOUR TRIBAL QUARRELS\n\nWE ARE NOT BABY SITTERS WE WILL NOT REPLACE YOUR LOST ITEMS OR TAMES. ARK IS A SURVIVAL GAME AT IT'S HEART, TRAGEDY AND LOSS ARE PART OF IT.\n\nADMIN REQUESTS WILL BE PROCESSED IN THE ORDER THEY ARE RECEIVED AND WHEN ADMINS CAN GET TO THEM. WE HAVE FAMILY AND JOBS OUTSIDE OF ARK AS WELL\n\nANY DINO LEFT ABANDONED ON OTHER'S BASES OR OB'S WILL BE WIPED WITHOUT WARNING\n\nFirst Offense - Verbal Warning, 24hr Notice to Correct Posted in Discord\n\nSecond Offense - Violating structure, dino, or player will be wiped. Failure to respond to 24hr warning will count as the second offense.\n\nThird Offense within 30 Days - Permanent Ban\n\nPLEASE HELP US KEEP THE ORDER. PLEASE REPORT ANY VIOLATORS OF THESE RULES TO AN ADMIN! SUPPORTERS OF THIS CLUSTER WILL BE REWARDED GENEROUSLY.",
+                    "text2": "<RichColor Color=\"1,0,0,1\">*****ATTENTION=UPDATED 04/11/2024*****</>All XP 7.5x \n\nTaming Speed Multi 25X \n\nHarvest Amount Multi 7.5x \n\nPlayer Water Drain 1x \n\nPlayer Food Drain 1x \n\nPlayer Health Recovery 10x \n\nDecay Timer 3x \n\nPlayer Resistance Multi 0.5x \n\nStructure Resistance Multi 0.5x \n\nPlayer Damage Multi 10x \n\n24hrs in game equals 60min IRL \n\nPlayer location on map \n\nFlyer Carry Allowed",
+                    "text3": "Please visit www.twistedkittensgaming.com or join the discord at dsc.gg/twistedkittens for the most up to date list of mods, rates, and upcoming updates!",
+                    "imageurl": "https://cdn.discordapp.com/attachments/976489391356780544/1182659996174004346/Untitled.png?ex=658580f3&is=65730bf3&hm=eba054b6655fbb142b4bd85aeb6f2f16ac8d9c832814a32b909f76aa494a477d&"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 4,
+                    "buttontext": "Events",
+                    "title1": "Active Events",
+                    "title2": "Upcoming Events",
+                    "title3": "Active Quest",
+                    "title4": "Upcoming Quests",
+                    "text1": "<TextStyle.Orange>Join the discord and invite and invite your friends!</>\n\n Make suggestions in discord and let us know what kind of events you would like to see!",
+                    "text2": "<TextStyle.Violet>Weekly Improvements based on player suggestions. </>",
+                    "text3": "<TextStyle.Red>TBD</>\n\n<TextStyle.Red></>",
+                    "text4": "<TextStyle.White>TBD Please make suggestions in discord</>",
+                    "imageurl": "https://cdn.discordapp.com/attachments/976489391356780544/1182659996174004346/Untitled.png?ex=658580f3&is=65730bf3&hm=eba054b6655fbb142b4bd85aeb6f2f16ac8d9c832814a32b909f76aa494a477d&"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 3,
+                    "buttontext": "Shop Info",
+                    "title1": "Shop Rules",
+                    "title2": "Player Shop Listings",
+                    "title3": "Twisted Market Sales",
+                    "text1": "In light of the recent revelations with shop mods, we no longer have a shop mod! However, we still do have admin services and donation rewards through our website. This is also where you will locate any benches you need to craft mod items.  Not all of these benches are directly available in game and must be purchased by your collection of tokens earned in game. You can simply visit www.twistedkittensgaming.com and place your order.  If you have played here and received the starter in your inventory, you will have a profile already available.  You can register and link your discord and player accounts.  Items purchased on the webshop will be delivered directly to you in the game! If you are not online, the system will hold your order for 7 days awaiting your arrival in game to deliver.  Please refer to our ToS located inside our Discord Server for more information. \n\nPlayer Shop Rules\n\nAll player shop owners must abide by discord and cluster rules. No exception. Violation of any will result in revoke of shop privileges. This includes registering your shop. Please refer to discord for more info \n\nNo selling spayed or neutered dinos.\n\nNo selling builds\n\nTo participate in AdminShop, you must be a member of the discord and have reviewed the adminshop policies and code of conduct. Please refer to https://dsc.gg/TwistedKittens for more information about administrative services.",
+                    "text2": "Nada",
+                    "text3": "25% OFF ALL Shop purchases\n\nDiscount code available for 25% off supporter roles! Coupon: ISUPPORTKITTENS \n\n Visit www.twistedkittensgaming.com",
+                    "imageurl": "https://cdn.discordapp.com/attachments/976489391356780544/1182659996174004346/Untitled.png?ex=658580f3&is=65730bf3&hm=eba054b6655fbb142b4bd85aeb6f2f16ac8d9c832814a32b909f76aa494a477d&"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Link to Ark SA Wiki",
+                    "url": "https://ark.wiki.gg/wiki/ARK:_Survival_Ascended"
+                }
+            },
+            {
+                "link2": {
+                    "text": "https://dsc.gg/TwistedKittens ",
+                    "url": "https://dsc.gg/twistedkittens"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Link To Twisted WebShop",
+                    "url": "www.twistedkittensgaming.com/"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Link to dododex",
+                    "url": "https://www.dododex.com/"
+                }
+            }
+        ]
+    }
+}
