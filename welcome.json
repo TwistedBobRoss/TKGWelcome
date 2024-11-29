@@ -91,6 +91,12 @@
                 "link4": {
                     "text": "Facebook",
                     "url": "https://www.facebook.com/TwistedKittensGaming"
+                   }
+            },
+            {
+                "link5": {
+                    "text": "More Info",
+                    "url": "www.twistedkittensgaming.com"
                 }
             }
         ]
