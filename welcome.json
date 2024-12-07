@@ -57,12 +57,12 @@
             {
                 "tab4": {
                     "layout": 3,
-                    "buttontext": "Shop Info",
-                    "title1": "Shop Rules",
-                    "title2": "Player Shop Listings",
-                    "title3": "Twisted Market Sales",
-                    "text1": "We do have admin services and donation rewards through our website. This is also where you will locate any benches you need to craft mod items.  Not all of these benches are directly available in game and must be purchased by your collection of tokens earned in game. You can simply visit www.twistedkittensgaming.com and place your order. To participate, join our discord server using this address ---> https://dsc.gg/twistedkittens, log in at www.twistedkittensgaming.com using your discord account. You can link your discord and player accounts. Please refer to the instructions in the tutorials on the discord server and the website under the NEWS Category.  Items purchased on the webshop will be delivered directly to you in the game! If you are not online, the system will hold your order for 7 days awaiting your arrival in game to deliver.  Please refer to our ToS located inside our Discord Server for more information. \n\nPlayer Shop Rules\n\nAll player shop owners must abide by discord and cluster rules. No exception. Violation of any will result in revoke of shop privileges. This includes registering your shop. Please refer to discord for more info \n\nNo selling spayed or neutered dinos.\n\nNo selling builds\n\nTo participate in AdminShop, you must be a member of the discord and have reviewed the adminshop policies and code of conduct. Please refer to https://dsc.gg/TwistedKittens for more information about administrative services.",
-                    "text2": "Nada",
+                    "buttontext": "Player Shops",
+                    "title1": "Player Shop Directory",
+                    "title2": "Player Shop Info for Consumers",
+                    "title3": "Twisted Kittens Gaming Admin Shop",
+                    "text1": "This is a current directory of all player shops which have applied for and registered a player shop\n\nWhy purchase from a registered shop? Registered shop owners have agreed to an established set of rules regulating the sales practices of the player shops in order to protect consumers.  For example, a registered shop may not sell dinos which are spayed or neutered in order to protect their lineage, nor can they sell a dino without a saddle.  Reported actions like these result in token fines against the owners.\n\nBuying from registered shops results in better security and products due to these rules they have agreed to. If you would like to start your own player owned shop, please join our discord at dsc.gg/twistedkittens and review the rules and application posted in #shop-updates\n\n<TextStyle.Violet>Shop Name:</> Molon Labe Shop\n\nOwner Name: AJ Molon Labe\n\nLocation: Twisted Whiskers The Island, TP Name: Molon Labe\n\nGoods Sold: Tames, Items, Resources",
+                    "text2": " ",
                     "text3": "Visit www.twistedkittensgaming.com",
                     "imageurl": "https://cdn.discordapp.com/attachments/976489391356780544/1182659996174004346/Untitled.png?ex=658580f3&is=65730bf3&hm=eba054b6655fbb142b4bd85aeb6f2f16ac8d9c832814a32b909f76aa494a477d&"
                 }
