@@ -83,8 +83,8 @@
             },
             {
                 "link3": {
-                    "text": "Twisted WebShop",
-                    "url": "www.twistedkittensgaming.com/"
+                    "text": "AdminShop",
+                    "url": "https://twistedkittensgaming.premiumark.net/shop"
                 }
             },
             {
@@ -95,8 +95,14 @@
             },
             {
                 "link5": {
-                    "text": "More Info",
-                    "url": "www.twistedkittensgaming.com"
+                    "text": "Twitch",
+                    "url": "https://www.twitch.tv/twistedbobross"  
+                }
+            },
+            {
+                "link6": {
+                    "text": "Kick",
+                    "url": "https://kick.com/twistedkittensgaming"
                 }
             }
         ]
