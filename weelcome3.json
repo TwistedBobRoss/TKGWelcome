@@ -1,142 +1,121 @@
 {
-  "WBUI2": {
-    "settings": {
-      "OpenButton": 0,
-      "HideIcon": false,
-      "HideIconAfter": 60,
-      "IconURL": "https://imgur.com/aBDZE1Q.png",
-      "DisableIconText": true,
-      "IconPosition": 0,
-      "IconTextColor": 0,
-      "OpenOnStart": true,
-      "OpenOnStartOnlyNewPlayers": false,
-      "UpdateInterval": 12
-    },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 3,
-          "buttontext": "Welcome",
-          "title1": "<TextStyle.Red>WELCOME TO TWISTED WHISKERS</>",
-          "title2": "Cluster Orientation",
-          "title3": "Quick Commands & Links",
-          "text1": "<TextStyle.White>Twisted Kittens Cluster — The Laws of Survival.</> Welcome to the Ark, survivor. These pages contain the cluster rules, flag system, rates, events, and shop guidance. Suggestions are welcome — your voice matters in the pride.\n\n<TextStyle.Violet>Valguero</> — Rugged mountains, dense forests, treacherous caves, and an underground ocean await. Choose your path: tribe, solo, builder, or explorer.",
-          "text2": "{playerlist}",
-          "text3": "<TextStyle.Green>How to open this UI:</>\nPC: Press F1\nPS5: Hold Square → highlight the wolf icon → press R2\n\n<TextStyle.Violet>Core Links</>\nDiscord: dsc.gg/twistedwhiskers\nWebshop & Starters: www.twistedkittensgaming.com\n\n<TextStyle.Violet>Common Chat Commands</>\n!help — Command list\n!balance — Show webshop token balance\n!report — Submit admin report\n!review — Leave feedback\n!dinowipe — Dino wipe schedule\n!rules — Display rules\n!flag — Flag compliance kit\n!die — Kill your survivor\n!reset — Teleport to safe location (does not teleport tames)\n!discord — Discord invite\n!website — Official website\n!shop — Admin shop",
-          "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 4,
-          "buttontext": "Laws of the Pride",
-          "title1": "Territory & Tribal Claims",
-          "title2": "Building With Balance",
-          "title3": "Code of the Wild",
-          "title4": "Discipline & Admin Support",
-          "text1": "<TextStyle.White>Territory & Tribal Claims</>\n• Each Tribe may claim two bases per map. Base size must not cause lag or fence large swaths of land.\n• Solo players may have one base per map. If a solo joins a tribe, the solo base must be dismantled and merged.\n• Claiming more than allowed will result in admin action.",
-          "text2": "<TextStyle.White>Building With Balance</>\n• Build freely but keep performance and fairness in mind.\n• Mega-base planning requires admin approval before major expansion.\n• Do not block: high-resource zones, explorer notes, artifact caves or terminals.\n• No structure spam. Taming traps must be cleaned up after use.",
-          "text3": "<TextStyle.White>Code of the Wild</>\n• No offline breeding. Imprinting and care matter.\n• No egg theft. Respect other survivors’ lineages.\n• Harassment is prohibited. Manage tribe disputes privately; admins are not mediators.",
-          "text4": "<TextStyle.White>The Harsh Truth & Discipline</>\n• Admins do not replace gameplay losses. Server errors may be remedied via community token compensation in rare cases.\n• Abandoned creatures at other bases or obelisks will be wiped without warning.\n\n<TextStyle.Red>Disciplinary Path (Rule of Three)</>\n1) First offense: verbal warning + 24h correction notice (Discord).\n2) Second offense: involved structures/tames/players may be wiped. Failure to correct after 24h auto-triggers second offense.\n3) Third offense (within 30 days): permanent banishment.\n\nAdmin support is handled in order received. We are volunteers — please be patient. Supporters who help the community may receive rewards."
-        }
-      },
-      {
-        "tab3": {
-          "layout": 4,
-          "buttontext": "Flag System",
-          "title1": "Flag System Overview",
-          "title2": "Rules by Tier",
-          "title3": "Violations & Consequences",
-          "title4": "Color Schedules",
-          "text1": "<TextStyle.White>Flag System Rules</>\nThe flag system is strictly enforced. Tribes must display the correct flag by the schedule. Any tribe found with an incorrect or outdated flag DURING a wipe will be fully wiped on that map. Items, tames, and bases may be salvaged and auctioned.",
-          "text2": "<TextStyle.Green>Normal Players</>\n• Update tribe flag before the end of each month.\n• Next required flag color announced one week in advance.\n• Failure to update before the first wipe wave = tribe wiped on that map. No compensation.",
-          "text3": "<TextStyle.Green>Subscribed Players</>\n• Must change flag every 3 months. Notices will be provided.\n• Cancelling subscription moves your tribe to Normal Player schedule.\n• If you stop playing and inform admins, your base will be removed; items/tames may be auctioned. Noteworthy bases may be auctioned intact.\n\n<TextStyle.Green>Admins</>\n• Admins must also update flags every 3 months. Failure to do so can result in wipe and auction of items/tames or base.",
-          "text4": "<TextStyle.White>Flag Color Decisions (Admins choose colors; no exceptions)</>\n\n<TextStyle.White>Admin Flag (Valid 180 days — Multi-panel)</>\nJan–Jun: Azure / Twilight\nJul–Dec: Blue / Green\n\n<TextStyle.White>Donor Flag (Valid 90 days — Multi-panel)</>\nJan–Mar: Purple / Cyan\nApr–Jun: Magenta / Blue\nJul–Sep: Yellow / Baby Blue\nOct–Dec: Red / Navy Blue\n\n<TextStyle.White>Free-To-Play Flag (Valid 30 days)</>\nJan: Blue\nFeb: Pink\nMar: Forest Green\nApr: Brick\nMay: Royal\nJun: Magenta\nJul: Red\nAug: Olive\nSep: Yellow\nOct: Black\nNov: Orange\nDec: Green"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 3,
-          "buttontext": "Rates & Performance",
-          "title1": "Server Rates (Effective 05/20/2025)",
-          "title2": "World & Player Settings",
-          "title3": "Performance Tips & Support",
-          "text1": "<RichColor Color=\"1,0,0,1\">Experience & Progress</>\nXP: 1.5x | Alpha Kill XP: 1.33x | Boss XP: 2.5x | Wild Kill XP: 1.25x | Crafting XP: 1.25x\n\n<TextStyle.Green>Taming & Gathering</>\nTaming Speed: 5x\nHarvest Amount: 2.5x",
-          "text2": "<TextStyle.Green>Player & World Mechanics</>\nWater Drain: 0.75x | Food Drain: 0.75x | Health Recovery: 2.5x\nPlayer Resistance: 1.25x | Player Damage: 1.25x\nDecay Timer: 3.5x | Structure Resistance: 0x\nTime: 24 in-game hours = 120 real minutes\nMap location visibility: Enabled\nDaily restart: 03:00 EST",
-          "text3": "<TextStyle.Violet>Performance & Optimization</>\nFor console and low-end PC performance improvements, follow our guide:\nhttps://twistedkittensgaming.premiumark.net/news/92130-commands-to-help-console-and-lower-speedperformance-pcs\n\n<TextStyle.White>Need admin assistance?</>\nAdmin requests are processed in the order received. Staff are volunteers; see Discord to apply to help or expedite urgent issues.\n\nFull mod lists, change logs and patch notes:\nwww.twistedkittensgaming.com\nDiscord: dsc.gg/twistedwhiskers"
-        }
-      },
-      {
-        "tab5": {
-          "layout": 4,
-          "buttontext": "Events",
-          "title1": "Monthly & Seasonal Events",
-          "title2": "Active Activities",
-          "title3": "Quests & Submissions",
-          "title4": "Treasure Hunts",
-          "text1": "<TextStyle.Orange>Monthly Highlights</>\n• Word of the Month: Announced in Discord. Guess the word in global chat to receive free tokens.\n• Starter Lotto: Webshop lottery. Prizes up to 1000 tokens. Higher tiers coming soon.",
-          "text2": "<TextStyle.White>Active Activities</>\n• Starter Lotto (webshop)\n• Community-run builds and events — check Discord for signups and schedules.",
-          "text3": "<TextStyle.Violet>Quests & Submissions</>\nSubmit quest ideas in Discord under #event-suggestions. Community-approved quests rotate monthly.",
-          "text4": "<TextStyle.Red>Bob Beach Treasure Hunt</>\nFive treasure caches spawn per map monthly. Rewards may include tames, building materials, and token consumables."
-        }
-      },
-      {
-        "tab6": {
-          "layout": 3,
-          "buttontext": "Shops & Market",
-          "title1": "Player Shop Directory",
-          "title2": "Shop Rules & Consumer Protections",
-          "title3": "Reporting a Shop Issue",
-          "text1": "<TextStyle.White>Registered player shops adhere to a code of conduct that protects buyers and ensures quality. Purchase from verified shops for safer trading.</>\n\n<TextStyle.Violet>Sample Verified Shop</>\nShop Name: Dragonstone Egg Emporium\nDiscord: MalachThor\nOwner: Dragon Lord\nMap: The Island\nLocation: 65.6, 31.2 (TP: Dragonstone)\nGoods: Tames and Eggs",
-          "text2": "<TextStyle.Green>Marketplace Rules</>\n• All tame sales must include a saddle.\n• Spayed/neutered tames may not be sold by registered shops.\n• Stackable goods should be sold in full stacks when applicable.\n• Token transactions are admin-enforceable; verified disputes will be corrected and penalties applied to sellers when warranted.",
-          "text3": "<TextStyle.White>How to Report</>\nReport via in-game !report, Discord, or at www.twistedkittensgaming.com. Include:\n- Date/time of transaction\n- Description of issue (e.g., missing saddle)\n- Shop name and location\n- Seller survivor name\n\nAdmins will investigate and take appropriate action, including refunds or penalties.",
-          "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "TikTok",
-          "url": "https://www.tiktok.com/@twistedkittensgaming"
-        }
-      },
-      {
-        "link2": {
-          "text": "Discord",
-          "url": "dsc.gg/twistedwhiskers"
-        }
-      },
-      {
-        "link3": {
-          "text": "Admin Shop",
-          "url": "https://twistedkittensgaming.premiumark.net/shop"
-        }
-      },
-      {
-        "link4": {
-          "text": "Website",
-          "url": "https://twistedkittensgaming.com"
-        }
-      },
-      {
-        "link5": {
-          "text": "Facebook",
-          "url": "https://www.facebook.com/TwistedKittensGaming"
-        }
-      },
-      {
-        "link6": {
-          "text": "Twitch",
-          "url": "https://www.twitch.tv/twistedbobross"
-        }
-      },
-      {
-        "link7": {
-          "text": "Kick",
-          "url": "https://kick.com/twistedkittensgaming"
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/aBDZE1Q.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 3,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to Twisted Whiskers Cluster",
+                    "title2": "Online Players",
+                    "title3": "Newest Server Features",
+                    "text1": "<TextStyle.Red>*****ATTENTION SURVIVORS*****</>\n\nWelcome to the Twisted Whiskers Cluster — a realm where adventure, strategy, and survival intertwine. Here, every corner of the world holds secrets, danger, and opportunity. From your first step on the sunlit plains to your descent into the shadowy depths of the unknown, the cluster is designed to challenge your cunning, your resilience, and your sense of community.\n\n<TextStyle.Orange>Within this hub, you will find guidance on server operations, mods, rates, and community rules. Take time to explore each tab to understand the unique systems we’ve created to support both new and veteran survivors. Engage with our discord, participate in events, and make your mark on the Twisted Whiskers legacy.</>\n\n<TextStyle.Green>Current Online Players:</>\n{text2}\n\n<TextStyle.Violet>Newest Server Features:</>\n\n<TextStyle.White>Twisted Whiskers: Valguero</>\nStep into a vast new world of rugged mountains, dense forests, and hidden caverns teeming with life and danger. Explore the underground ocean and uncover the secrets of The Abyss. Each expedition offers the thrill of discovery and the chance to carve out your territory amidst dynamic ecosystems. Valguero emphasizes balanced PvE survival with immersive exploration and discovery.\n\n<TextStyle.White>Twisted Whiskers: ASArik (PvE Expansion)</>\nEnter the experimental frontier of the cluster: ASArik. Custom mods, evolving events, and unique dino variants create a living, breathing environment. ASArik rewards strategic thinking, collaboration, and exploration, offering veterans new challenges while maintaining harmony with the original Twisted Whiskers PvE world.\n\n<TextStyle.White>Twisted Purrgatory (PvP, Separate)</>\nFor those seeking the ultimate test of skill and cunning, Twisted Purrgatory delivers a feral PvP environment where every encounter carries high stakes. The economy, events, and progression here exist independently from the PvE cluster, allowing PvP enthusiasts to engage without impacting the balance of Twisted Whiskers PvE.\n\n<TextStyle.Green>Remember:</> The pride thrives when each survivor respects the rules, embraces exploration, and contributes to the evolving saga of the cluster.",
+                    "text2": "{playerlist}",
+                    "text3": "Discover your potential, survive the wilds, and write your story in the annals of Twisted Whiskers.",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "Cluster Rules",
+                    "title1": "Territory & Tribal Claims",
+                    "title2": "Building & Code of the Wild",
+                    "title3": "Disciplinary Path",
+                    "text1": "<TextStyle.Orange>Territory & Tribal Claims</>\nEach tribe may claim two bases per map, each sized to maintain fair play and performance. Solo survivors may claim one per map. Joining a tribe requires merging your base into the tribe’s stronghold. Over-claiming results in admin action.\n\n<TextStyle.Orange>Building With Balance</>\nBuild your sanctuary, but keep it clean, performance-friendly, and fair. Mega bases require admin approval. Never block high-resource zones, explorer notes, or artifact terminals. If unsure, always ask before building.\n\n<TextStyle.Orange>Code of the Wild</>\nNo offline breeding. No egg theft. Harassment is prohibited. Trust is earned — admins do not intervene in tribal drama.",
+                    "text2": "<TextStyle.Red>The Harsh Truth</>\nLost tames and resources are part of Ark. Admins do not replace losses. Support requests are handled in the order received as time allows.\n\nAbandoned creatures at other bases or obelisks will be wiped without warning.\n\n<TextStyle.Red>Flag System Rules</>\nNormal Players: Update flags monthly; failure results in tribe wipes.\nSubscribed Players: Update every 3 months; non-compliance follows normal schedule if subscription ends.\nAdmins: Must also follow the 3-month rule. Wipes occur on failures.\nViolations result in full tribe wipes, with salvaged items and tames possibly auctioned.\nAdmin-chosen flag colors must be respected without exception.",
+                    "text3": "<TextStyle.Violet>Disciplinary Path (Rule of Three)</>\nFirst Offense: Verbal warning + 24hr notice in Discord.\nSecond Offense: Structures, tames, or players may be wiped.\nThird Offense (30 days): Permanent banishment.\n\nHonor the pride: report rule-breakers. Supporters are rewarded generously.",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "Rates & Mods",
+                    "title1": "Current Rates",
+                    "title2": "Mod List",
+                    "title3": "Server Notes",
+                    "text1": "<RichColor Color=\"1,0,0,1\">*****CURRENT RATES*****</>\n\nXP 1.5x | Alpha Kill XP 1.33x | Boss XP 2.5x | Wild Kill XP 1.25x | Crafting XP 1.25x\nTaming Speed 5x\nHarvest 2.5x\nPlayer Water/Food Drain 0.75x\nHealth Recovery 2.5x\nDecay Timer 3.5x\nPlayer Damage 1.25x | Player Resistance 1.25x | Structure Resistance 0x\n24 hours in-game = 120 min IRL",
+                    "text2": "For a complete list of mods and updates, visit:\nwww.twistedkittensgaming.com\nJoin the Discord for real-time news: dsc.gg/twistedwhiskers",
+                    "text3": "Restart Schedule: 3AM EST daily.\nConnect Discord and player accounts to use the shop and receive token bonuses.",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 3,
+                    "buttontext": "Events & Tips",
+                    "title1": "Upcoming Events",
+                    "title2": "Tips & Tricks",
+                    "title3": "Quests",
+                    "text1": "<TextStyle.Orange>Fun & Rewards</>\nWords of the Month: Guess correctly for free tokens. Starter lotto: chance to win 1000 tokens, higher tiers coming soon.",
+                    "text2": "<TextStyle.Violet>Performance Tips</>\nFollow the guide to improve console and lower-end PC performance:\nhttps://twistedkittensgaming.premiumark.net/news/92130-commands-to-help-console-and-lower-speedperformance-pcs",
+                    "text3": "<TextStyle.Red>Active Quest & Hidden Treasures</>\nSearch Bob beaches for hidden prizes, including tames, building materials, and WebToken consumables. 5 locations per map, maintained monthly.",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab5": {
+                    "layout": 3,
+                    "buttontext": "Shop Info",
+                    "title1": "Current Verified Shops",
+                    "title2": "Shop Guidelines",
+                    "title3": "Admin Shop",
+                    "text1": "This directory lists all player shops registered with Twisted Kittens Gaming. Verified shops adhere to strict rules to protect consumers and maintain fairness.\n\nRules include: mandatory saddles with tames, prohibition on selling spayed/neutered creatures, and full-stack sales for resources.",
+                    "text2": "Report violations through GSA radial menu, Discord, or the website. Include date, transaction/violation type, shop name/location, and survivor names involved. Admins will investigate promptly.",
+                    "text3": "Visit the Admin Shop for unique items, consumables, and starter kits:\nhttps://twistedkittensgaming.premiumark.net/shop",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "TikTok",
+                    "url": "https://www.tiktok.com/@twistedkittensgaming"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Discord",
+                    "url": "dsc.gg/twistedwhiskers"
+                }
+            },
+            {
+                "link3": {
+                    "text": "AdminShop",
+                    "url": "https://twistedkittensgaming.premiumark.net/shop"
+                }
+            },
+            {
+                "link4": {
+                    "text": "Facebook",
+                    "url": "https://www.facebook.com/TwistedKittensGaming"
+                }
+            },
+            {
+                "link5": {
+                    "text": "Twitch",
+                    "url": "https://www.twitch.tv/twistedbobross"
+                }
+            },
+            {
+                "link6": {
+                    "text": "Kick",
+                    "url": "https://kick.com/twistedkittensgaming"
+                }
+            }
+        ]
+    }
 }
