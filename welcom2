@@ -1,0 +1,80 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://imgur.com/aBDZE1Q.png",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 3,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to Twisted Whiskers PvE",
+                    "title2": "Online Players",
+                    "title3": "Server Information",
+                    "text1": "<TextStyle.Red>***** ATTENTION SURVIVORS *****</>\n\n<TextStyle.White>Welcome to Twisted Whiskers Valguero, the newest expansion in the Twisted Kittens cluster!</>\n\n<TextStyle.Orange>Explore vast mountains, deep forests, hidden caves, and the dark depths of The Abyss. Every region is filled with mystery and danger waiting to be uncovered. Gather your tribe, claim your land, and build your story in this new world.</>\n\nJoin the adventure: <TextStyle.Green>dsc.gg/twistedwhiskers</>\n\nBefore beginning your journey, we recommend exploring the tabs above. They contain vital information about rules, rates, mods, and events. Checking these regularly ensures you’re always up to date, as rates and rules may change based on community votes.\n\nJoin our Discord to share feedback, participate in polls, and help shape the future of the cluster.\n\n<TextStyle.Green>Accessing This Screen:</>\nPC: Press F1\nPlayStation 5: Hold Square → Select the wolf icon → Press R2\n\n<TextStyle.Green>Free Starter Kits:</> Visit www.twistedkittensgaming.com. One free kit is available per survivor. If you received a starter automatically, you will not be eligible for the web version. See the Shop tab for more details.\n\nWelcome to the community. Enjoy your stay and happy surviving!",
+                    "text2": "{playerlist}",
+                    "text3": "<TextStyle.Violet>Important Server Information</>\n\n• Restart Time: 3AM EST Daily\n• See the Rates Tab for updated settings.\n• Link your Discord and in-game account for bonus tokens:\n  https://twistedkittensgaming.premiumark.net/news/67145-Tkg-Webshop\n\n<TextStyle.Violet>Chat Commands</>\n\n!help - Lists available commands\n!balance - Shows your token balance\n!report - Sends a report to admins\n!review - Opens a feedback form\n!dinowipe - Displays dino wipe schedule\n!rules - Displays current rules\n!flag - Gives a compliance flag kit\n!die - Respawns your character\n!reset - Teleports to a known safe location (no tames)\n!discord - Discord link\n!website - Website link\n!shop - Admin shop link",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 3,
+                    "buttontext": "Rules, Rates & Mods",
+                    "title1": "Twisted Whiskers Rules",
+                    "title2": "Server Rates (Updated 05/20/2025)",
+                    "title3": "Mod and Update Information",
+                    "text1": "<TextStyle.White>All players are expected to follow these rules to ensure a positive community environment. These rules are built with community input and reviewed regularly.</>\n\n<TextStyle.Violet>Base and Building Rules</>\n• One base per tribe or solo player per map.\n• Solo players joining tribes must remove individual bases.\n• Avoid excessive structures or lag-heavy builds.\n• Do not block resources, explorer notes, or artifact locations.\n\nRequest a Base Limit Device by contacting an admin via Discord (@asaadmin), !report in game, or through the Support option at www.twistedkittensgaming.com.\n\n<TextStyle.Violet>Behavior and Conduct</>\n• No harassment or toxic behavior.\n• No egg stealing or griefing.\n• Clean up traps when done using them.\n• Admins will not replace items or tames lost through gameplay. If server-side issues occur, community-wide compensation in tokens will be provided.\n\n<TextStyle.Orange>Administrative Notice</>\nAdmins volunteer their time and may have delays due to real-life obligations. Please be patient. Staff opportunities are available in Discord.\n\n<TextStyle.Red>Violation Policy</>\n1. Verbal Warning and 24-hour correction notice.\n2. Structure, tame, or player involved will be wiped after the warning expires.\n3. Third offense within 30 days results in a permanent ban.\n\nHelp maintain order by reporting rule violations through Discord or !report in game. Active supporters are rewarded for helping keep the cluster safe and fair.",
+                    "text2": "<RichColor Color=\"1,0,0,1\">***** SERVER SETTINGS *****</>\n\n<TextStyle.Green>Experience</>\nXP 1.5x (Alpha Kill: 1.33x, Boss: 2.5x, Wild Kill: 1.25x, Crafting: 1.25x)\n\n<TextStyle.Green>Taming & Harvest</>\nTaming Speed: 5x\nHarvest Amount: 2.5x\n\n<TextStyle.Green>Player Settings</>\nWater Drain: 0.75x\nFood Drain: 0.75x\nHealth Recovery: 2.5x\nPlayer Resistance: 1.25x\nDamage Output: 1.25x\n\n<TextStyle.Green>World Settings</>\nDecay Timer: 3.5x\nStructure Resistance: 0x\nDay/Night Cycle: 24h = 120min IRL\nMap location visibility: Enabled",
+                    "text3": "For the latest mods, rates, and updates visit:\nwww.twistedkittensgaming.com\n\nJoin the community Discord:\ndsc.gg/twistedwhiskers",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 4,
+                    "buttontext": "Events & Tips",
+                    "title1": "Upcoming Events",
+                    "title2": "Performance & Gameplay Tips",
+                    "title3": "Active Quest",
+                    "title4": "Future Quests",
+                    "text1": "<TextStyle.Orange>Monthly Events</>\n\n• Word of the Month: Say the secret word in chat to receive free tokens. A new word is introduced each month.\n• Starter Lotto: Participate in the webshop lottery for a chance to win up to 1000 tokens. Higher tiers will be added soon.",
+                    "text2": "<TextStyle.Violet>Performance Tips</>\n\nImprove performance on consoles or low-end PCs by following the guide below:\nhttps://twistedkittensgaming.premiumark.net/news/92130-commands-to-help-console-and-lower-speedperformance-pcs\n\n<TextStyle.Green>Quick Chat Command Reference</>\n!help | !balance | !report | !review | !dinowipe | !rules | !flag | !die | !reset | !discord | !website | !shop",
+                    "text3": "<TextStyle.Red>Bob’s Beach Treasure Hunt</>\nSearch beaches on each map for hidden treasure caches. They are refreshed monthly and contain valuable rewards such as tames, building materials, token consumables, and other surprises.",
+                    "text4": "<TextStyle.White>Upcoming Quests</>\nFuture quests will be announced soon. You may suggest quest ideas in Discord under #event-suggestions.",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 3,
+                    "buttontext": "Player Shops",
+                    "title1": "Player Shop Directory",
+                    "title2": "Consumer Information",
+                    "title3": "Admin Shop",
+                    "text1": "<TextStyle.White>Support other survivors by purchasing from registered player-run shops.</>\n\n<TextStyle.Orange>Benefits of Registered Shops</>\n• No spayed or neutered tames may be sold.\n• All tame sales must include a saddle.\n• Token transactions are fully admin-enforced.\n\nRegistered shop owners provide trustworthy and quality service. Any violations result in penalties for the seller.\n\n<TextStyle.Violet>Featured Shop</>\nShop Name: Dragonstone Egg Emporium\nDiscord: MalachThor\nOwner: Dragon Lord\nMap: The Island\nLocation: 65.6, 31.2 (TP: Dragonstone)\nGoods Sold: Tames and Eggs",
+                    "text2": "<TextStyle.Green>Consumer Rights</>\n• All token transactions are enforceable by admin staff.\n• Report issues through Discord, in-game (!report), or via www.twistedkittensgaming.com.\n\n<TextStyle.Violet>Include in your report:</>\n- Date of transaction or violation\n- Type of transaction or issue (example: missing saddle)\n- Shop name and location\n- Survivor name of seller\n\nAdmins will investigate and resolve the issue promptly.",
+                    "text3": "For a complete list of verified player and admin shops, visit:\nwww.twistedkittensgaming.com",
+                    "imageurl": "https://github.com/TwistedBobRoss/TwistedKittens/blob/main/tkglogo3.png?raw=true"
+                }
+            }
+        ],
+        "links": [
+            { "link1": { "text": "TikTok", "url": "https://www.tiktok.com/@twistedkittensgaming" } },
+            { "link2": { "text": "Discord", "url": "dsc.gg/twistedwhiskers" } },
+            { "link3": { "text": "Admin Shop", "url": "https://twistedkittensgaming.premiumark.net/shop" } },
+            { "link4": { "text": "Facebook", "url": "https://www.facebook.com/TwistedKittensGaming" } },
+            { "link5": { "text": "Twitch", "url": "https://www.twitch.tv/twistedbobross" } },
+            { "link6": { "text": "Kick", "url": "https://kick.com/twistedkittensgaming" } }
+        ]
+    }
+}
