@@ -95,7 +95,7 @@
       },
       {
         "layout": 4,
-        "buttontext": "<TextStyle.Blue>Cluster/Game List</>",
+        "buttontext": "<TextStyle.Blue>Clusters/Servers</>",
         "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
         "content": [
           {
