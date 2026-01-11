@@ -14,8 +14,19 @@
     },
     "tabs": [
       {
+        "layout": 1,
+        "buttontext": "Welcome!",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/TKGAdvertA.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
         "layout": 4,
-        "buttontext": "<TextStyle.Green>Welcome</>",
+        "buttontext": "<TextStyle.Green>Getting Started</> & <TextStyle.Red>Critical Notices</>",
         "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
         "content": [
           {
@@ -38,7 +49,7 @@
       },
       {
         "layout": 4,
-        "buttontext": "<TextStyle.Violet>Useful Information</>",
+        "buttontext": "<TextStyle.Violet>Useful Info</>",
         "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
         "content": [
           {
@@ -102,17 +113,6 @@
           {
             "title": "ASE? Is it still worth it?",
             "text": "Should we host any ASE servers? Let us know in our discord! dsc.gg/twistedkittens"
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "Addtional Info",
-        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/TKGAdvertA.png",
-        "content": [
-          {
-            "title": "",
-            "text": ""
           }
         ]
       }
