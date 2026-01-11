@@ -104,6 +104,17 @@
             "text": "Should we host any ASE servers? Let us know in our discord! dsc.gg/twistedkittens"
           }
         ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Addtional Info",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/TKGAdvertA.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
       }
     ],
     "links": [
