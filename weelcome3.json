@@ -95,7 +95,7 @@
       },
       {
         "layout": 4,
-        "buttontext": "<TextStyle.Blue>Clusters/Servers</>",
+        "buttontext": "<RichColor Color=\"0.5,0,1,1\">All Clusters</>",
         "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
         "content": [
           {
