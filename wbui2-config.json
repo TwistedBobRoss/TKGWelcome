@@ -1,0 +1,140 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 30,
+      "iconurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/Websitelogo.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": false,
+      "updateinterval": 6
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Welcome!",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/TKGAdvertA.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "<TextStyle.Green>Getting Started</> & <TextStyle.Red>Critical Notices</>",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Congratulations!</>",
+            "text": "<RichColor Color=\"0,1,1,1\">You have successfully been replicated on a TKG Ark!</>\\n\n<TextStyle.Green>Welcome to Twisted Kittens Gaming (TKG)</>\n\n<RichColor Color=\"0,1,1,1\">You’ve entered a Twisted Kittens Gaming ARK: Survival Ascended server — a place where survival, creativity, competition, and community all coexist.</>\n\n<RichColor Color=\"0,1,1,1\">Each TKG server is carefully curated to offer a stable, balanced, and engaging experience, whether you’re here to build, battle, dominate, or simply survive the world of ARK your own way.</>\n\n<TextStyle.Violet>What TKG Servers Offer</>\nCustom-balanced rates tailored to each server type\\nQuality-of-Life improvements without removing the challenge\\nActive administration focused on fairness and stability\\nCommunity-driven rules designed to protect fun and longevity\\nCrossplay-friendly environments where applicable\n\n<RichColor Color=\"1,1,0,1\">Server Types</> <RichColor Color=\"0,1,0,1\">Explained</>\n<TextStyle.Violet>Twisted Whiskers Ascended</> - <RichColor Color=\"0,1,1,1\">PvE Servers focus on cooperation, progression, breeding, and creative builds</> \\n<TextStyle.Red>Twisted Purrgatory</> - <RichColor Color=\"0,1,1,1\">PvP Servers emphasize strategy, combat, tribe warfare, and calculated risk</>\\n<TextStyle.Green>Chronicles of The Fiber</> - <RichColor Color=\"0,1,1,1\">Fibercraft Servers deliver fast-paced gameplay with instant action and streamlined progression.</>\n\n<RichColor Color=\"0.5,0,1,1\">Each server has its own identity, ruleset, and balance philosophy, so be sure to review the server-specific information in discord before diving in.</>\n\n<TextStyle.Yellow>Important Notes</>\n\n<RichColor Color=\"1,0,0,1\">Respect fellow survivors — TKG thrives on community</>\n\n<RichColor Color=\"1,0,0,1\">Exploits, griefing beyond allowed rules, or cheating are not tolerated</>\n\n<RichColor Color=\"1,0,0,1\">Server rules, rates, and features are subject to tuning for balance and performance</>\n\n<TextStyle.Green>Stay Connected</>\n\n<RichColor Color=\"0,1,0,1\">For full rules, rates, shop access, updates, and support:\\ndsc.gg/twistedkittens\\ndsc.gg/twistedwhiskers</>\n\n<TextStyle.Green>Survive.</> <TextStyle.Yellow>Build.</> <RichColor Color=\"1,0,0,1\">Conquer.</>\n<RichColor Color=\"0,1,1,1\">Welcome to the Twisted Kittens Gaming universe.</>"
+          },
+          {
+            "title": "<TextStyle.Red>!!IMPORTANT NOTICES!!</>",
+            "text": "<RichColor Color=\"1,0.5,0,1\">Please read this for important updates impacting your gaming experiences!</>\\n\\n<TextStyle.Green>New Discounts for Supporter Tiers Active Now! We Count On you!</>\\n<RichColor Color=\"1,0,1,1\">KITTENNODE10</> - <RichColor Color=\"0,1,0,1\">Use this code to get 10% off any recurring monthly subscription.  Discounted price applies to subscription rewnewels when the subscription is purchased with this code!</>\\n<RichColor Color=\"0,1,1,1\">WHISKEROBELISK25</> - <RichColor Color=\"0,1,0,1\">Use this code to get 25% off up to 5 transactions for token purchases, specialty admin services, or monthly passes.</>\\n\n<TextStyle.Green>NEW SERVERS OPEN:</>\n<RichColor Color=\"1,0,1,1\">Twisted Purrgatory - Extinction</>\n<RichColor Color=\"0.5,0,1,1\">Chronicles of Twisted Fiber - Frayed Reach (Lost Colony)</>\\n<RichColor Color=\"0,1,0,1\">Chronicles of Twisted Fiber - Tangled Vale (Forglar)</>"
+          },
+          {
+            "title": "<TextStyle.Violet>Flag Rule (PvE)</>",
+            "text": "<TextStyle.White>Flag System Rules</>\\n\\n<TextStyle.Violet>Normal Players</>\\nYou must update your tribe's flag before the end of each month.\\nWe announce the next required flag color one week in advance.\\nIf your flag is not updated before the first wipe wave, your entire tribe will be wiped on that map — no compensation will be given.\\n\\n<TextStyle.Violet>Subscribed Players</>\\nYou need to change your flag every 3 months.\\nWe’ll inform you of the upcoming required colors.\\nIf you cancel your subscription, your tribe must follow the normal player flag schedule from then on.\\nIf you stop playing and inform us, we will remove your base.\\n– Your items and tames may be auctioned.\\n– If your base is cool or nicely built, we might auction off the entire base as well.\\n\\n<TextStyle.Violet>Admins</>\\nAdmins must also change their flags every 6 months.\\nIf an admin fails to update their flag on time, their tribe will be wiped, and items and tames may be auctioned.\\nIf the base is noteworthy or well-built, it may also be auctioned off.\\n\\n<TextStyle.Violet>Violations = Tribe Wipe</>\\nAny tribe with an incorrect or outdated flag during a wipe will have the entire tribe wiped on that map.\\nNo warnings or partial wipes — if one part of the tribe breaks the rule, the whole tribe is affected.\\nItems and tames from wiped tribes may be salvaged and auctioned.\\nIn some cases, the entire base may be auctioned, especially if it’s well-designed or unique.\\n\\n<TextStyle.Violet>Flag Color Decisions</>\\nAdmins choose all flag colors.\\nNo exceptions will be made for any player, tribe, or role.\\n\\n<TextStyle.Violet>Admin Flag (Valid for 180 days)</>\\nJan-June: Azure / Twilight\\nJuly-Dec: Blue / Green\\n\\n<TextStyle.Violet>Donor Flag (Valid for 90 Days)</>\\nJan – Mar: Purple / Cyan\\nApr – Jun: Magenta / Blue\\nJul – Sep: Yellow / Baby Blue\\nOct – Dec: Red / Navy Blue\\n\\n<TextStyle.Violet>Free To Play Flag (Valid for 30 Days)</>\\nJanuary – Blue\\nFebruary – Pink\\nMarch – Forest Green\\nApril – Brick\\nMay – Royal\\nJune – Magenta\\nJuly – Red\\nAugust – Olive\\nSeptember – Yellow\\nOctober – Black\\nNovember – Orange\\nDecember – Green"
+          },
+          {
+            "title": "TKG PvE Rules (See Discord for PvP)",
+            "text": "<RichColor Color=\"0.5,0,1,1\">-Twisted Whiskers Ascended Cluster & Chronicles of The Fiber -</>\\n<RichColor Color=\"1,0.5,0,1\">The Laws of Survival</>\\n\\nWelcome to the Ark, survivor. These are the rules that keep chaos in check. Obey them, or risk the wrath of the wild... and the whiskers.\\nSuggestions are always welcome — your voice matters in the pride.\\n\\n<RichColor Color=\"0.5,0,1,1\">Territory & Tribal Claims</>\\nEach Tribe may claim two bases within each map. The size of each must not cause other players lag or fence in huge swaths of land. In the future there may be a device provided to illustrate your limitations.\\nLone wolves (solo players) may also have one of each.\\nIf a solo player joins a tribe, their base must be dismantled and merged into the tribe’s official stronghold.\\n\\n<RichColor Color=\"1,0,0,1\">Claiming more than your allowed base locations will result in admin action.</>\\n\\n<RichColor Color=\"0,1,0,1\">Building With Balance</>\\n• Feel free to build your dream sanctuary — just keep it clean, fair, and performance-friendly.\\n• Planning a mega base?  Request approval from an admin before expanding beyond the norm.\\n<RichColor Color=\"1,0,0,1\">• You may not block:</>\\n→ High-resource zones\\n→ Explorer Notes\\n→ Artifact caves or terminals\\n\\nNo structure spam.\\nTaming traps must be cleaned up after use. Don’t litter the land.\\n\\n<RichColor Color=\"0.5,0,1,1\">Code of the Wild</>\\n<RichColor Color=\"1,0,0,1\">No offline breeding</> <RichColor Color=\"0,1,1,1\">— your babies deserve attention.</>\\n<RichColor Color=\"1,0,0,1\">No egg theft</> <RichColor Color=\"0,1,1,1\">— what hatches in your nest stays in your nest.</>\\n<RichColor Color=\"1,0,0,1\">Harassment is never tolerated.</>\\nRespect your fellow survivors.\\nTrust is earned — we are not referees for tribe drama. Handle it like grown kittens.\\n\\n<RichColor Color=\"1,0,0,1\">The Harsh Truth</>\\nLost a tame? A bag full of loot vanished? That’s Ark.\\nAdmins will not replace losses — this is a survival game, and tragedy is part of the tale.\\nAdmin support is handled in order received, and as time allows.\\nWe’re human too, with jobs, families, and naps to take.\\nAbandoned creatures left at others’ bases or obelisks will be wiped without mercy or warning.\\n\\n<TextStyle.Red>Disciplinary Path (The Rule of Three)</>\\n<RichColor Color=\"1,1,0,1\">First Offense</> – Verbal warning + 24hr notice to fix the issue (posted in Discord)\\n<RichColor Color=\"1,0.5,0,1\">Second Offense –</> Involved structures, tames, or players may be wiped\\nFailure to correct the issue after 24hr = automatic second offense\\n<RichColor Color=\"1,0,0,1\">Third Offense (within 30 days)</> – Permanent banishment from the pride\\n\\n<TextStyle.Green>Honor the Pride</>\\nReport rule-breakers to an admin\\nThose who support the server, uphold the rules, and help the pride flourish will be rewarded with generous gifts and eternal kitten approval.\\nThe ARK is brutal. The kittens are twisted. But with respect, wit, and a touch of madness… you’ll thrive."
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "<TextStyle.Violet>Useful Info</>",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
+        "content": [
+          {
+            "title": "<TextStyle.Green>Online Players</>",
+            "text": "{playerlist}"
+          },
+          {
+            "title": "<TextStyle.Yellow>PvE Server Rates (See Discord for PvP)</>",
+            "text": "<TextStyle.Green>Server Rates (Updated 05/20/2025)</>\\n\\n<TextStyle.Green>Experience</>\\nXP 1.5x (Alpha Kill: 1.33x, Boss: 2.5x, Wild Kill: 1.25x, Crafting: 1.25x)\\n\\n<TextStyle.Green>Taming & Harvest</>\\nTaming Speed: 5x\\nHarvest Amount: 2.5x\\n\\n<TextStyle.Green>Player Settings</>\\nWater Drain: 0.75x\\nFood Drain: 0.75x\\nHealth Recovery: 2.5x\\nPlayer Resistance: 1.25x\\nDamage Output: 1.25x\\n\\n<TextStyle.Green>World Settings</>\\nDecay Timer: 3.5x\\nStructure Resistance: 0x\\nDay/Night Cycle: 24h = 120min IRL\\nMap location visibility: Enabled\\nRestart Time: 3AM EST Daily"
+          },
+          {
+            "title": "<TextStyle.Orange>Chat Commands</>",
+            "text": "<TextStyle.Violet>Chat Commands</>\\n\\nType these exactly (case sensitive) as shown in the global chat\\n\\n <RichColor Color=\"0,1,1,1\">!help - Lists available commands\\n!balance - Shows your token balance\\n!report - Sends a report to admins\\n!review - Opens a feedback form\\n!dinowipe - Displays dino wipe schedule\\n!rules - Displays current rules\\n!flag - Gives a compliance flag kit\\n!die - Respawns your character\\n!reset - Teleports to a known safe location (no tames)\\n!discord - Discord link\\n!website - Website link\\n!shop - Admin shop link</>\\n\\n<RichColor Color=\"0.5,0,1,1\">Premium Chat Commands</>\\n   <RichColor Color=\"1,0,1,1\"> !Tekaholic — Unlock most Tekgrams for your account once per month\\n!PremDinoWipe — Perform a dino wipe on command, available once every 12 hours\\n!Dawn — Turn night into day\\n!Dusk — Turn day into night</>"
+          },
+          {
+            "title": "<TextStyle.Yellow>Events & Tips</>",
+            "text": "<TextStyle.Orange>Monthly Events</>\\n• Word of the Month: Say the secret word in chat to receive free tokens. A new word is introduced each month.\\n• Starter Lotto: Participate in the webshop lottery for a chance to win up to 1000 tokens. Higher tiers will be added soon.\n<TextStyle.Orange>Weekly Events</>\\nRoo's Twisted Beauty Pageant Every Saturday on Twisted Whiskers Ascended-VAL-\\n\\n<TextStyle.Violet>Performance Tips</>\\n\\nImprove performance on consoles or low-end PCs by following the guide below:\\nhttps://twistedkittensgaming.premiumark.net/news/92130-commands-to-help-console-and-lower-speedperformance-pcs\\n\\n"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"1,1,0,1\">Shop Info</>",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>In-Game Shop Introduction</>",
+            "text": "<TextStyle.Green>In-Game/WebShop</>\\n\\nTKG Webshop - Quick Intro\\nThe TKG Webshop allows players to earn or purchase Twisted Web Tokens and exchange them for in-game items, creatures, and quality-of-life perks.\\n\\nToken rewards may be obtained through gameplay, events, or optional support purchases. Available offerings and delivery methods may vary depending on the server type.Items are delivered directly in-game once redeemed.\\nItems may be purchased in game using the in-game radial menu.  You will see a Cat Face Logo in the radial menu, that is the way to the shop in game.\\n\\nAlternatively, you may go to the website and place an order.  It will be delivered to you in game!  You can also select subscriptions, buy more tokens, see your purchase/sub history.\\n\\n\\nFull details, rules, and current listings:<RichColor Color=\"0,1,0,1\">dsc.gg/twistedkitten</>\\nLink your Discord and in-game account for bonus tokens and to place orders from the webpage, see your purchase history, subscribe or cancel subscriptions. \\nHow To Here:<RichColor Color=\"0,1,0,1\">https://twistedkittensgaming.premiumark.net/news/67145-Tkg-Webshop</>"
+          },
+          {
+            "title": "<TextStyle.Blue>Want to Support Twisted Kittens Gaming?</>",
+            "text": "<RichColor Color=\"0.5,0,1,1\">TKG Subscription Tiers & Benefits</>\\n \n<RichColor Color=\"0,1,1,1\">TKG subscriptions are an optional way to support the community while unlocking exclusive in-game and community perks. Each tier builds on the last, offering increasing convenience, access, and rewards.</>\\r\\n  \nSubscriber Benefits Include\\nMonthly Twisted Web Token rewards\\nExclusive roles showing your supporter status\\nAccess to subscriber-only chats, polls, and suggestions\\nPremium in-game chat commands\\nFree Shiny Dinos\\nEarly or exclusive access to select features, events, or shop items \\n\\nTier Structure\\nMultiple subscription tiers available\\nHigher tiers include all previous rewards, plus additional perks\\nBenefits remain active while your subscription is active\\n Important Notes\\nSubscription perks vary by server type\\nFree Shiny Dino availability varies by subscription tier\\nRewards are delivered automatically each month\\nFull details are available on the website\\n \n<RichColor Color=\"0,1,1,1\">One-Time Token Purchases are also available</>\\n\n<RichColor Color=\"0,1,1,1\">Full tier breakdown and details:</>\\n <RichColor Color=\"0,1,0,1\">https://twistedkittensgaming.com</>"
+          },
+          {
+            "title": "<TextStyle.Green>Special Admin Services Available </>",
+            "text": "Through our shop & supporter system, many special services and sales are available to Free2Play and Supporters alike.  Some of these services include...\\n*Oil Vein Placement - Admin summoned and placed Oil Vein W/Free Oil Pump\\n*Water Vein Placement - Admin Summoned and placed water vein w/Free Water Well\\n*Custom Shiny Dino Requests\\n\\nCheck www.twistedkittensgaming.com under the \"Specials\" menu for more info!"
+          },
+          {
+            "title": "<RichColor Color=\"0.5,0,1,1\">Player Shops</>",
+            "text": "<TextStyle.Green>Players may run their own shops!</>\\n <RichColor Color=\"0.5,0,1,1\">The player shops must register with a form on the website.  We do this because we promote players to buy from other players through the trade table.  This prevents disagreements and griefing.  Being a shop owner allows you to set your token prices for items you wanna trade or sell in the trade table.  Set it as a global market and it can be bought from from any trade table!</>\\n\\n<RichColor Color=\"1,1,0,1\">Any transactions that go through a registered shop are guaranteed to be what you discussed with the seller.  Sellers are guaranteed the agreed price</>\\nFind the application to register your player shop on the website <RichColor Color=\"0,1,0,1\">www.twistedkittensgaming.com</>\n"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "<RichColor Color=\"0.5,0,1,1\">All Clusters</>",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/tkglogo3.png",
+        "content": [
+          {
+            "title": "ASA Clusters",
+            "text": "Twisted Whiskers Ascended\\nThe Island\\nScorched Earth\\nExtinction\\nAberration\\nRagnarok\\nValguero\\nAstraeos\\nThe Center\\nLost Colony\\nASARik\n\n\\nTwisted Purrgatory\\nLost Colony\\nExtinction\n\n\\nChronicles of Twisted Fiber\\nLost Colony"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.5,0,1\">Other Games</>",
+            "text": "Server Name - Exiles of TKG\\nGame - Conan Exiles\\nMap - Exiled Lands\\nPlatform - PC Only\\nPlaystyle - Relaxed PvP\n\n\n<RichColor Color=\"1,0,1,1\">Would you like to see us try out hosting a game that you and your friends like? Join discord at dsc.gg/twistedkittens and let us know!</>\\n\n<RichColor Color=\"0.5,0,1,1\">Are you interested in having your own private server? Reach out to an admin in our discord to inquire about our managed game hosting services!</>"
+          },
+          {
+            "title": "PalWorld",
+            "text": "Is it a hit? It a miss? That's as debatable as it is about Ark Survival Ascended and Evolved, but we know for sure they pissed Nintendo off!  Do you guys want a Palworld server? Let us know in discord! Suggest us games you'd like to see us host! dsc.gg/twistedwhiskers"
+          },
+          {
+            "title": "ASE? Is it still worth it?",
+            "text": "Should we host any ASE servers? Let us know in our discord! dsc.gg/twistedkittens"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "PvE Rules ",
+        "url": "https://twistedkittensgaming.premiumark.net/page/64640-rules"
+      },
+      {
+        "text": "Discord Invite",
+        "url": "dsc.gg/twistedkittens"
+      },
+      {
+        "text": "TKG Website",
+        "url": "www.twistedkittensgaming.com"
+      },
+      {
+        "text": "Admin Specials",
+        "url": "https://twistedkittensgaming.premiumark.net/page/137463-specialorders"
+      }
+    ],
+    "version": 2
+  }
+}
