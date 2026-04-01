@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "Welcome!",
-        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/ChatGPT%20Image%20Jan%2029%2C%202026%2C%2010_05_26%20AM.png",
+        "imageurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/easter.png",
         "content": [
           {
             "title": "",
@@ -66,7 +66,7 @@
           },
           {
             "title": "<TextStyle.Yellow>Events & Tips</>",
-            "text": "<TextStyle.Orange>Monthly Events</>\\n• Word of the Month: Say the secret word in chat to receive free tokens. A new word is introduced each month.\\n• Starter Lotto: Participate in the webshop lottery for a chance to win up to 1000 tokens. Higher tiers will be added soon.\n<TextStyle.Orange>Weekly Events</>\\nRoo's Twisted Beauty Pageant Every Saturday on Twisted Whiskers Ascended-VAL-\\n\\n<TextStyle.Violet>Performance Tips</>\\n\\nImprove performance on consoles or low-end PCs by following the guide below:\\nhttps://twistedkittensgaming.premiumark.net/news/92130-commands-to-help-console-and-lower-speedperformance-pcs\\n\\n"
+            "text": "<TextStyle.Orange>Monthly Events</>\\n• Word of the Month: Say the secret word in chat to receive free tokens. A new word is introduced each month.\\n• Starter Lotto: Participate in the webshop lottery for a chance to win up to 1000 tokens. Higher tiers will be added soon.\n<TextStyle.Orange>Weekly Events</>\\nVox's Battle Tower Events are coming back!\\n\\n<TextStyle.Violet>Performance Tips</>\\n\\nImprove performance on consoles or low-end PCs by following the guide below:\\nhttps://twistedkittensgaming.premiumark.net/news/92130-commands-to-help-console-and-lower-speedperformance-pcs\\n\\n"
           }
         ]
       },
@@ -104,11 +104,11 @@
           },
           {
             "title": "<RichColor Color=\"1,0.5,0,1\">Other Games</>",
-            "text": "Server Name - Exiles of TKG\\nGame - Conan Exiles\\nMap - Exiled Lands\\nPlatform - PC Only\\nPlaystyle - Relaxed PvP\n\n\n<RichColor Color=\"1,0,1,1\">Would you like to see us try out hosting a game that you and your friends like? Join discord at dsc.gg/twistedkittens and let us know!</>\\n\n<RichColor Color=\"0.5,0,1,1\">Are you interested in having your own private server? Reach out to an admin in our discord to inquire about our managed game hosting services!</>"
+            "text": "Server Name - Exiles of TKG\\nGame - Conan Exiles\\nMap - Exiled Lands\\nPlatform - PC Only\\nPlaystyle - Relaxed PvE\n\nServer Name - Twisted Kitten Pals\nGame - Palworld\nMap - Palpagos\nPlatform - FULLY Crossplay\n\nServer Name - Echoes of Valheim\nGame - Valheim\nMap - Seed# HHcLC5acQt\nModpak Link - https://thunderstore.io/c/valheim/p/TKG_Valheim/Echoes_of_Valheim/\nPlatform - PC Only\nIP&Port - 162.251.120.105:2492\n\nServer Name - Shadows of Valheim\nGame - Valheim\nMap - Seed# lInCHpIn55\nModpak Link - https://thunderstore.io/c/valheim/p/TKG_Valheim/Echoes_of_Valheim/\nPlatform - PC Only\nIP&Port - 162.251.120.105:2516\n\n\n\n<RichColor Color=\"1,0,1,1\">Would you like to see us try out hosting a game that you and your friends like? Join discord at dsc.gg/twistedkittens and let us know!</>\\n\n<RichColor Color=\"0.5,0,1,1\">Are you interested in having your own private server? Reach out to an admin in our discord to inquire about our managed game hosting services!</>"
           },
           {
-            "title": "PalWorld",
-            "text": "Is it a hit? It a miss? That's as debatable as it is about Ark Survival Ascended and Evolved, but we know for sure they pissed Nintendo off!  Do you guys want a Palworld server? Let us know in discord! Suggest us games you'd like to see us host! dsc.gg/twistedwhiskers"
+            "title": "<TextStyle.Violet>Twisted Kitten Pals is live!</>",
+            "text": "\\n\\nWhether it's a hit or a miss—a debate as heated as <TextStyle.Orange>Ascended</> vs. <TextStyle.Blue>Evolved</>—Palworld has arrived!\\n\\nWe've heard you loud and clear. Our Palworld expansion is officially running and ready for you to join the chaos.\\n\\n<TextStyle.Yellow>SERVER FEATURES:</>\\n• <TextStyle.Green>Admin Services:</> Quick help via Discord tickets.\\n• <TextStyle.Green>In-Game Shops:</> Gear up and trade via Discord.\\n• <TextStyle.Green>Active Community:</> Join the Twisted Whiskers crew!\\n\\n<TextStyle.Shadow>Suggest new games or get help at:</>\\n<RichColor Color=\"0,1,1,1\">dsc.gg/twistedwhiskers</>"
           },
           {
             "title": "ASE? Is it still worth it?",
