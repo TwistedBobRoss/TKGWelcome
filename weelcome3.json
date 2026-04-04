@@ -2,7 +2,7 @@
   "WBUI2": {
     "settings": {
       "openbutton": 0,
-      "hideicon": true,
+      "hideicon": false,
       "hideiconafter": 30,
       "iconurl": "https://raw.githubusercontent.com/TwistedBobRoss/TwistedKittens/refs/heads/main/Websitelogo.png",
       "disableicontext": true,
@@ -35,7 +35,7 @@
           },
           {
             "title": "<TextStyle.Red>!!IMPORTANT NOTICES!!</>",
-            "text": "<RichColor Color=\"1,0.5,0,1\">Please read this for important updates impacting your gaming experiences!</>\\n\\n<TextStyle.Green>New Discounts for Supporter Tiers Active Now! We Count On you!</>\\n<RichColor Color=\"1,0,1,1\">KITTENNODE10</> - <RichColor Color=\"0,1,0,1\">Use this code to get 10% off any recurring monthly subscription.  Discounted price applies to subscription rewnewels when the subscription is purchased with this code!</>\\n<RichColor Color=\"0,1,1,1\">WHISKEROBELISK25</> - <RichColor Color=\"0,1,0,1\">Use this code to get 25% off up to 5 transactions for token purchases, specialty admin services, or monthly passes.</>\\n\n<TextStyle.Green>NEW SERVERS OPEN:</>\n<RichColor Color=\"1,0,1,1\">Twisted Purrgatory - Extinction</>\n<RichColor Color=\"0.5,0,1,1\">Chronicles of Twisted Fiber - Frayed Reach (Lost Colony)</>\\n<RichColor Color=\"0,1,0,1\">Chronicles of Twisted Fiber - Tangled Vale (Forglar)</>"
+            "text": "<TextStyle.Green>SHOP UPDATE: NEW ITEMS ADDED!</>\n<RichColor Color=\"0,1,0,1\">The shop has undergone a massive expansion! We have recently added a wide variety of new contents, specialty items, and utility packs to enhance your journey. Head over to the shop to see the latest additions and grab what you need to conquer the new maps!</>\n\n<TextStyle.Green>NEW SERVERS OPEN:</>\n<RichColor Color=\"1,0,1,1\">Twisted Kitten Pals - Palworld</>\n<RichColor Color=\"0,1,1,1\">Twisted Whiskers Ascended-ROT-5xTame/2.5xHarvest/QoL</>\n\n<TextStyle.Green>MONTHLY MAP ROTATION UPDATE:</>\n<RichColor Color=\"1,0.5,0,1\">Svartalfheim</> has been retired for the month.\n<RichColor Color=\"0,1,1,1\">ATLANTIS</> is now LIVE! The rotating server is switched over - prepare to dive into the sunken ruins and claim your territory!"
           },
           {
             "title": "<TextStyle.Violet>Flag Rule (PvE)</>",
